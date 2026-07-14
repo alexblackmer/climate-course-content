@@ -57,6 +57,7 @@ dependencies:
  - xesmf
  - xmip
  - zarr
+ - nbstripout
  - pip:
    - afinn
    - lipd
